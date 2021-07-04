@@ -1,4 +1,4 @@
-# Learning pytorch from scratch
+# - Learning pytorch from scratch
 ## Install
 ```
 pip install -r requirements.txt
